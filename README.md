@@ -36,18 +36,6 @@ Bu layihə Power BI istifadə etməklə satış məlumatlarının analitik və v
 #### Detallı KPI göstəriciləri (Total satış, artım faizi və s.)  
 ![KPI Details](screenshots/kpi-details.png)
 
-## 📁 Fayl strukturu
-
-```bash
-final-layihe/
-├── README.md
-├── report/
-│   └── Final_layihe.pbix
-├── screenshots/
-│   ├── dashboard-overview.png
-│   └── kpi-details.png
-```
-
 ## 🔐 Qeyd
 
-Layihədə istifadə olunan məlumatlar məxfidir və GitHub-da paylaşılmır. Vizual hesabat yalnız təqdimat məqsədi ilə təqdim olunmuşdur.
+Layihədə istifadə olunan məlumatlar real data deyil, yalnız təqdimat məqsədi ilə təqdim olunmuşdur.
